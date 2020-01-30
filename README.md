@@ -14,7 +14,7 @@
 | Integrated Graphics | Intel UHD Graphics 620                            |
 | Monitor             | BOE NV156FHM-N61 FHD 1920x1080 (15.6 inch)        |
 | Sound Card          | Realtek ALC298 (layout-id:30/99)                  |
-| Wireless Card       | Intel Wireless 8265                               |
+| Wireless Card       | Intel Wireless 8265 / Broadcom BCM943602CS        |
 | SD Card Reader      | Realtek RTS5129/RTS5250S                          |
 
 *All credit goes to this repo and its contributors: [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)*
