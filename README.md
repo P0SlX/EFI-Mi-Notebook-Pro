@@ -1,7 +1,8 @@
 # EFI-Mi-Notebook-Pro
 ### Public version of my EFI on this machine.
 
-#### For now it's running on Clover but will soon push an update to support OpenCore.
+#### ~~For now it's running on Clover but will soon push an update to support OpenCore.~~
+#### OC does not support dual booting atm so I will stick with Clover for now...
 
 #### Configuration
 
